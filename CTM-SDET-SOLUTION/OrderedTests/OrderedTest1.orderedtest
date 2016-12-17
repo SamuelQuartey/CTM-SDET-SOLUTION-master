@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="orderedtest1" storage="c:\users\samkings\documents\visual studio 2015\projects\ctm-sdet-solution\ctm-sdet-solution\orderedtests\orderedtest1.orderedtest" id="d4b15d16-66d5-407d-b287-9b863177b9cb" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="8ab05b9f-3419-3ede-c227-abdd96223325" name="EnergyComparisonJourney_N16" storage="..\bin\debug\ctm-sdet-solution.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="7ddd9e6b-832a-92d3-becb-ad33bfc39b76" name="EnergyComparisonJourney_PE26YS" storage="..\bin\debug\ctm-sdet-solution.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
