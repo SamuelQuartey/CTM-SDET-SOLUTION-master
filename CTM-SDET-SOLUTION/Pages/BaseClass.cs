@@ -7,7 +7,7 @@ namespace CTM_SDET_SOLUTION.Pages
     {
         protected IWebDriver Driver;
         private YourSupplierPage _energySupplier;
-        private YourEnergyPage __energyEnergyPage;
+        private YourEnergyPage _energyEnergyPage;
         public BaseClass(IWebDriver driver)
         {
             Driver = driver;
@@ -28,8 +28,8 @@ namespace CTM_SDET_SOLUTION.Pages
         {
             get
             {
-                __energyEnergyPage = new YourEnergyPage(Driver);
-                return __energyEnergyPage;
+                _energyEnergyPage = new YourEnergyPage(Driver);
+                return _energyEnergyPage;
             }
 
         }
