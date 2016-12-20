@@ -1,6 +1,6 @@
 # CTM-SDET-SOLUTION-master
 Demo UI Automation Solution
-Operation System ==> Windows 10 Pro
+Operating System ==> Windows 10 Pro
 Visual Studio 2015 IDE
 Code is in C#, Selenium WebDriver, Specflow BDD,
 PageObject Design Parten
