@@ -11,7 +11,7 @@ NuGets - Selenium version 3.0.1
          IE verison 3.0.0.1
 MS Test Project
 
-And I noticed you have some sort of javascript thats revokes selenium interactions on the application site, and most elements not visible for selenium to pickup 
-Points to consider when trying to run test
+And I noticed you have some sort of javascript thats revokes selenium interactions on the application site, and most elements not visible for selenium to select 
+when trying to run test
 thank you
 Sam
